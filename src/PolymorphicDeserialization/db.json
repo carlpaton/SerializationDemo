@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "511d1dda-3c62-47e1-9197-c84564f39520",
+    "ProductType": "XML 2 SMS",
+    "ShortDescription": "Designed for developers, the XML / HTTP interface will allow you to send and receive SMS messages and query current and historical logs using HTTP request and XML response.",
+    "Foo": "Some foo property"
+  },
+  {
+    "Id": "1f2bd60f-8fe8-4e55-aebd-fa50e2b51086",
+    "ProductType": "SMPP 2 SMS",
+    "ShortDescription": "SMPP (Short Message Peer to Peer) is an industry standard form of connection for SMS Messaging.",
+    "Bar": "Some bar property"
+  }
+]
